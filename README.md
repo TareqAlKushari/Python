@@ -64,15 +64,18 @@ Contributions are welcome! To contribute:
 4. Push to your branch (`git push origin feature/YourFeature`)
 5. Open a pull request
 
-## License
-
-Specify your license here, if applicable (e.g., MIT, Apache 2.0).  
-_Example: This project is licensed under the MIT License._
-
 ## Contact
 
 For questions or suggestions, reach out to [TareqAlKushari](https://github.com/TareqAlKushari).
 
+## Author 🙋‍♂️
+
+**Tareq Al-Kushari**   [GitHub](https://github.com/TareqAlKushari) • [LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL) • [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==) • [X](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09) • [Email](mailto:tareq.al.kushari@gmail.com) • [Portfolio Website](#)
+
+## License 📜
+
+This project is open-source and available under the [MIT License](LICENSE).
+
 ---
 
-> _Feel free to edit this README to better fit your repository’s purpose and content!_
+> If you found this helpful, don't forget to **star** the repo and share it with others! ⭐
